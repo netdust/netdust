@@ -1,4 +1,3 @@
-![Alt text](https://github.com/user-attachments/assets/2e3849d8-8984-4aa9-9d39-028165b094a9?sanitize=true)
 <img src="https://github.com/user-attachments/assets/2e3849d8-8984-4aa9-9d39-028165b094a9?sanitize=true">
 
 <!--
